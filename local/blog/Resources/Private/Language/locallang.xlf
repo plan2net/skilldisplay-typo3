@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0">
+	<file source-language="de" datatype="plaintext" original="messages" date="2018-02-15T13:42:15Z" product-name="blog">
+		<header/>
+		<body>
+			<trans-unit id="tx_blog_domain_model_post">
+				<source>Post</source>
+			</trans-unit>
+			<trans-unit id="tx_blog_domain_model_post.title">
+				<source>Title</source>
+			</trans-unit>
+			<trans-unit id="tx_blog_domain_model_post.text">
+				<source>Text</source>
+			</trans-unit>
+			<trans-unit id="tx_blog_domain_model_post.author">
+				<source>Author</source>
+			</trans-unit>
+			<trans-unit id="tx_blog_domain_model_author">
+				<source>Author</source>
+			</trans-unit>
+			<trans-unit id="tx_blog_domain_model_author.name">
+				<source>Name</source>
+			</trans-unit>
+			<trans-unit id="tx_blog_domain_model_author.active">
+				<source>Active</source>
+			</trans-unit>
+			<trans-unit id="tx_blog_domain_model_author.birthday">
+				<source>Birthday</source>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

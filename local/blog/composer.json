@@ -1,0 +1,20 @@
+{
+    "name": "skilldisplay/blog",
+    "type": "typo3-cms-extension",
+    "version": "1.0.0",
+    "description": "",
+    "authors": [
+        {
+            "name": "Marianne Moser",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "typo3/cms-core": "^8.7.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "SkillDisplay\\Blog\\": "Classes"
+        }
+    }
+}
