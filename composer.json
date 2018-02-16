@@ -27,5 +27,10 @@
 			"cms-package-dir": "{$vendor-dir}/typo3/cms",
 			"web-dir": "web"
 		}
+	},
+	"scripts": {
+		"post-install-cmd": [
+			"touch web/FIRST_INSTALL"
+		]
 	}
 }
