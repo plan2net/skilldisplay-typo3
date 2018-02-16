@@ -3,6 +3,9 @@
 	<file source-language="de" datatype="plaintext" original="messages" date="2018-02-15T13:42:15Z" product-name="blog">
 		<header/>
 		<body>
+			<trans-unit id="tx_blog_domain_model_posts">
+				<source>Posts</source>
+			</trans-unit>
 			<trans-unit id="tx_blog_domain_model_post">
 				<source>Post</source>
 			</trans-unit>
